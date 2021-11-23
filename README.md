@@ -6,11 +6,15 @@ Yo! I'm Akuro, aka ThemeSchemer and I create texture packs for games, color pale
 - Web Development
 - Typescript
 - Discord.JS v13
-### 🌱 I’m currently learning ...
-### 💞️ I’m looking to collaborate on ...
-### 📫 How to reach me ...
-
-<!---
-themeschemer/themeschemer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌱 I’m currently learning
+- Typescript
+- Vue
+- More of Unity C#
+### ❓ What do I do?
+- Website Requests (2/5 taken)
+- Themes (BetterDiscord)
+- Game Texture Packs
+  - Among Us
+  - Minecraft
+### 📫 How to reach me
+You can message me via email at themeschemer@gmail.com. I'll get back to you as soon as I can, thanks!
