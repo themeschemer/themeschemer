@@ -9,6 +9,7 @@ Yo! I'm Akuro, aka ThemeSchemer and I create texture packs for games, color pale
 ### 🌱 I’m currently learning
 - Typescript
 - Vue
+- PHP & MySQL
 - More of Unity C#
 ### ❓ What do I do?
 - Website Requests (2/5 taken)
@@ -17,4 +18,8 @@ Yo! I'm Akuro, aka ThemeSchemer and I create texture packs for games, color pale
   - Among Us
   - Minecraft
 ### 📫 How to reach me
+#### Public Profiles
+- [Replit](https://replit.com/@scriptschemer)
+- *More coming soon!*
+#### Other Methods
 You can message me via email at themeschemer@gmail.com. I'll get back to you as soon as I can, thanks!
