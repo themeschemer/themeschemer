@@ -12,7 +12,7 @@ Yo! I'm Akuro, aka ThemeSchemer and I create texture packs for games, color pale
 - PHP & MySQL
 - More of Unity C#
 ### ❓ What do I do?
-- Website Requests (2/5 taken)
+- Website Requests (closed)
 - Themes (BetterDiscord)
 - Game Texture Packs
   - Among Us
